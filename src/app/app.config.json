@@ -1,0 +1,13 @@
+{
+  "appname": "Buyer App",
+  "ocscope": "",
+  "clientid": "789F3C23-C544-4390-823F-78477B5E18C7",
+  "buyerid": "12",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
